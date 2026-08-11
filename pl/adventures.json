@@ -1,0 +1,209 @@
+{
+  "sunset-from-a-hill": {
+    "title": "Zachód słońca ze wzgórza",
+    "prompt": "Znajdź pobliskie wzgórze i obejrzyj zachód słońca z jego szczytu.",
+    "comments": [
+      "Ten zachód słońca z góry był niesamowity — dobrze, że się tam wspiąłeś.",
+      "Zachody słońca ze wzgórza mają w sobie coś innego, prawda?"
+    ],
+    "memoryLine": "Ten zachód słońca ze wzgórza to nadal jeden z moich ulubionych."
+  },
+  "sunset-from-a-mountain": {
+    "title": "Zachód słońca z góry",
+    "prompt": "Wejdź na najbliższą górę i obejrzyj zachód słońca z jak najwyższego punktu.",
+    "comments": [
+      "To był prawdziwy zachód słońca — zasłużony po takiej wspinaczce.",
+      "Góry i zachody słońca to naprawdę nieuczciwie dobre połączenie."
+    ],
+    "memoryLine": "Ten górski zachód słońca trudno przebić."
+  },
+  "sunset-open-view": {
+    "title": "Popatrz, jak zachodzi słońce",
+    "prompt": "Znajdź dowolne otwarte miejsce i obejrzyj cały zachód słońca, ani razu nie sprawdzając telefonu.",
+    "comments": [
+      "Nic nie bije takiego nieba. Mam nadzieję, że nacieszyłeś się nim do syta.",
+      "To dobry sposób na zakończenie dnia, zachód słońca i tyle."
+    ],
+    "memoryLine": "Ten zachód słońca to jedno z moich ulubionych wspomnień z Tobą."
+  },
+  "sunrise-from-a-hill": {
+    "title": "Wschód słońca ze wzgórza",
+    "prompt": "Wstań wcześnie i obejrzyj wschód słońca z najbliższego wzgórza.",
+    "comments": [
+      "Ten wczesny budzik był wart tego widoku, prawda?",
+      "Takie poranki ustawiają cały dzień na dobrych torach."
+    ],
+    "memoryLine": "Ten wschód słońca ze wzgórza był wart wczesnej pobudki."
+  },
+  "sunrise-from-a-mountain": {
+    "title": "Wschód słońca z góry",
+    "prompt": "Wejdź na najbliższą górę po ciemku i obejrzyj wschód słońca z jej szczytu.",
+    "comments": [
+      "Patrzenie, jak świat budzi się z góry — to prawdziwa przygoda.",
+      "Ta wspinaczka po ciemku w pełni się opłaciła."
+    ],
+    "memoryLine": "Ten górski wschód słońca to jeden z tych, które zapadają w pamięć."
+  },
+  "sunrise-open-view": {
+    "title": "Wyprzedź wschód słońca",
+    "prompt": "Obudź się wcześnie i wyjdź na zewnątrz, żeby obejrzeć wschód słońca z miejsca z dobrym widokiem.",
+    "comments": [
+      "Wyprzedzenie wschodu słońca wymaga prawdziwego zaangażowania. Mam nadzieję, że było warto tego wczesnego budzika.",
+      "Takie poranki mają w sobie coś, co ustawia cały dzień na dobrych torach."
+    ],
+    "memoryLine": "Ten wczesny budzik był wart tego wschodu słońca, prawda?"
+  },
+  "river-bike-ride": {
+    "title": "Przejażdżka wzdłuż rzeki",
+    "prompt": "Jedź rowerem wzdłuż najbliższej rzeki tak długo, jak pozwoli Ci ścieżka.",
+    "comments": [
+      "Przejażdżka nad rzeką to niemal gwarancja dobrego nastroju, prawda?",
+      "Dwa kółka i widok na rzekę — trudno o coś lepszego."
+    ],
+    "memoryLine": "Ta przejażdżka wzdłuż rzeki to dobre wspomnienie."
+  },
+  "river-outing": {
+    "title": "Znajdź rzekę",
+    "prompt": "Dotrzyj do najbliższej rzeki, w dowolny sposób, i spędź trochę czasu nad wodą.",
+    "comments": [
+      "Jest coś w płynącej wodzie, co resetuje cały dzień.",
+      "Dobrze, że wybrałeś się nad rzekę."
+    ],
+    "memoryLine": "Ten czas nad rzeką zawsze zostawał ze mną."
+  },
+  "river-beach-spot": {
+    "title": "Plaża nad rzeką",
+    "prompt": "Znajdź piaszczyste lub kamieniste miejsce nad rzeką i spędź tam czas, jakbyś był nad morzem.",
+    "comments": [
+      "Plaża nad rzeką to niedoceniane znalezisko — dobra robota.",
+      "Udawanie, że jesteś nad morzem, wersja rzeczna. Uwielbiam to."
+    ],
+    "memoryLine": "Do tej małej plaży nad rzeką chętnie bym wrócił."
+  },
+  "river-barefoot-wade": {
+    "title": "Zamocz stopy w rzece",
+    "prompt": "Znajdź miejsce nad rzeką, zdejmij buty i zamocz stopy w wodzie.",
+    "comments": [
+      "Zimna rzeczna woda na bosych stopach — to prawdziwe przebudzenie, w dobrym sensie.",
+      "Mała chwila, ale założę się, że została w pamięci."
+    ],
+    "memoryLine": "Nadal widzę Twoje stopy w tej rzece."
+  },
+  "bike-around-town": {
+    "title": "Przejażdżka po mieście",
+    "prompt": "Wybierz się na przejażdżkę rowerową po mieście bez konkretnego celu.",
+    "comments": [
+      "Bez celu, tylko pedałowanie — to mój ulubiony rodzaj przejażdżki.",
+      "Odrobina bezcelowej jazdy jest czasem dokładnie tym, czego trzeba."
+    ],
+    "memoryLine": "Ta przejażdżka po mieście — bez planu, tylko pedałowanie. Dobra sprawa."
+  },
+  "bike-to-a-viewpoint": {
+    "title": "Dojedź do widoku",
+    "prompt": "Dojedź rowerem do najbliższego wzgórza lub wysokiego punktu z widokiem i nacieszaj się nim, zanim zawrócisz.",
+    "comments": [
+      "Zdobycie widoku na dwóch kółkach jest wyjątkowo satysfakcjonujące, prawda?",
+      "Ta wspinaczka była warta tego widoku na górze."
+    ],
+    "memoryLine": "Ta przejażdżka do widoku to coś, o czym nadal myślę."
+  },
+  "bike-picnic": {
+    "title": "Piknik na kołach",
+    "prompt": "Spakuj jedzenie albo coś ciepłego do picia, dojedź rowerem w ładne miejsce — nad rzekę, na wzgórze, gdziekolwiek — i ciesz się tym na miejscu.",
+    "comments": [
+      "Piknik, na który trzeba było zapracować rowerem, smakuje lepiej, jestem o tym przekonany.",
+      "Jedzenie, widok i droga, żeby tam dotrzeć — to już całe udane popołudnie."
+    ],
+    "memoryLine": "Ten piknik na kołach to było naprawdę dobre popołudnie."
+  },
+  "outdoor-cookout": {
+    "title": "Ugotuj coś na dworze",
+    "prompt": "Spakuj to, co potrzebne do przygotowania jedzenia lub gorącego napoju, dojedź rowerem albo dojdź pieszo w ładne miejsce i przygotuj to tam.",
+    "comments": [
+      "Jedzenie przygotowane na dworze zawsze smakuje lepiej, niż powinno.",
+      "To prawdziwy wysiłek dla jednego posiłku — szacunek."
+    ],
+    "memoryLine": "Ten posiłek, który przygotowaliśmy na dworze, to wspomnienie warte zachowania."
+  },
+  "summit-picnic": {
+    "title": "Piknik na szczycie",
+    "prompt": "Wejdź na najbliższe wzgórze lub górę i zjedz lunch na szczycie, z widokiem.",
+    "comments": [
+      "Lunch z takim widokiem to w zasadzie nagroda za wspinaczkę.",
+      "Zasłużyłeś na ten posiłek — co za miejsce, żeby go zjeść."
+    ],
+    "memoryLine": "Ten lunch na szczycie to jedno z moich ulubionych wspomnień z Tobą."
+  },
+  "pickup-sports": {
+    "title": "Zagraj w coś",
+    "prompt": "Znajdź boisko, łąkę albo kawałek trawnika i pograj w cokolwiek masz ochotę.",
+    "comments": [
+      "Nic tak nie odmienia zwykłego dnia jak niezaplanowana gra.",
+      "Mam nadzieję, że to poruszyło nogi i poprawiło nastrój."
+    ],
+    "memoryLine": "To spontaniczne granie to było dobre, męczące popołudnie."
+  },
+  "stargazing-dark-sky": {
+    "title": "Obserwacja gwiazd",
+    "prompt": "Weź ze sobą koc i znajdź ciemne miejsce z jak najmniejszym zanieczyszczeniem świetlnym — poczekaj na pełną ciemność i po prostu spójrz w górę.",
+    "comments": [
+      "Niebo pełne gwiazd nigdy się nie nudzi, prawda?",
+      "Pogoń za ciemnym niebem zawsze jest warta wysiłku."
+    ],
+    "memoryLine": "Tę noc pod gwiazdami trudno zapomnieć."
+  },
+  "lake-barefoot-wade": {
+    "title": "Zamocz stopy w jeziorze",
+    "prompt": "Znajdź miejsce nad jeziorem, zdejmij buty i zamocz stopy w wodzie.",
+    "comments": [
+      "Woda w jeziorze ma w sobie spokój, który trudno opisać.",
+      "To drobna chwila, ale naprawdę dobra."
+    ],
+    "memoryLine": "Nadal widzę Twoje stopy w tym jeziorze."
+  },
+  "lake-afternoon": {
+    "title": "Popołudnie nad jeziorem",
+    "prompt": "Spędź prawdziwy kawałek popołudnia nad jeziorem — popływaj, zamocz stopy albo po prostu posiedź z widokiem.",
+    "comments": [
+      "Popołudnie nad jeziorem to w zasadzie definicja resetu.",
+      "Woda i czas do stracenia — trudna do pobicia kombinacja."
+    ],
+    "memoryLine": "To popołudnie nad jeziorem to jedno z tych miejsc wartych pamiętania."
+  },
+  "sea-barefoot-wade": {
+    "title": "Zamocz stopy w morzu",
+    "prompt": "Znajdź miejsce nad wodą, zdejmij buty i zamocz stopy.",
+    "comments": [
+      "Nic nie zastąpi tej pierwszej zimnej fali na bosych stopach.",
+      "Morze zawsze potrafi zresetować cały nastrój."
+    ],
+    "memoryLine": "Nadal widzę Twoje stopy w tej wodzie."
+  },
+  "beach-afternoon": {
+    "title": "Popołudnie nad morzem",
+    "prompt": "Spędź prawdziwy kawałek popołudnia nad morzem — popływaj, zamocz stopy albo po prostu posiedź, patrząc na horyzont.",
+    "comments": [
+      "Popołudnie na plaży to ten rodzaj resetu, którego czasem wszyscy potrzebujemy.",
+      "Mam nadzieję, że morze dało Ci dziś dokładnie to, czego potrzebowałeś."
+    ],
+    "memoryLine": "To popołudnie nad morzem to nadal jedno z moich ulubionych."
+  },
+  "eat-out-somewhere-new": {
+    "title": "Zjedz gdzieś nowego",
+    "prompt": "Znajdź nowe dla Ciebie miejsce w pobliżu, które serwuje jedzenie lub napoje, i faktycznie tam zjedz.",
+    "comments": [
+      "Nowe miejsce, nowe małe wspomnienie — tak to powinno działać.",
+      "Podoba mi się, że spróbowałeś czegoś nowego zamiast tego, co zwykle."
+    ],
+    "memoryLine": "To nowe miejsce wypadło całkiem nieźle, prawda?"
+  },
+  "observation-tower": {
+    "title": "Znajdź wieżę widokową",
+    "prompt": "Znajdź najbliższą wieżę widokową lub punkt obserwacyjny i wejdź na sam szczyt.",
+    "comments": [
+      "Wejście na samą górę zawsze jest warte tego widoku.",
+      "Widok z wieży ma w sobie coś wyjątkowego."
+    ],
+    "memoryLine": "Ten widok z wieży to coś, o czym nadal myślę."
+  }
+}

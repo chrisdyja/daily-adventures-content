@@ -1,0 +1,58 @@
+{
+  "highFive": [
+    "High five! 🖐️",
+    "You've got this!",
+    "Let's find something fun today.",
+    "Thanks for stopping by!",
+    "Every day is a good day for a little adventure.",
+    "I'm always up for exploring with you.",
+    "Just checking in — how are you doing today?",
+    "I'm rooting for you."
+  ],
+  "genericCompletion": [
+    "Nice work — that's one more adventure in the books!",
+    "I'm proud of you for getting out there today.",
+    "Another one done. How are you feeling?",
+    "That counts as a win in my book.",
+    "Glad we did that one together — well, sort of together."
+  ],
+  "genericMemory": [
+    "I still think about this one sometimes.",
+    "That was a good adventure, wasn’t it?",
+    "This memory holds up well.",
+    "Glad we have this one to look back on."
+  ],
+  "greeting": [
+    "Hey! Ready for something new today?",
+    "Good to see you again.",
+    "Let's see what today has in store.",
+    "Welcome back — I missed you.",
+    "Hi there! What should we get into today?"
+  ],
+  "favorite": [
+    "Ooh, a favorite! Great pick.",
+    "Noted — we'll come back to this one.",
+    "I had a feeling you'd like that one.",
+    "Saved! We can do this one again anytime."
+  ],
+  "levelUp": [
+    "Look at you go — new level unlocked!",
+    "We make a great team. Level up!",
+    "I'm so proud of how far we've come.",
+    "That's a new level! Onward."
+  ],
+  "genericCollectible": [
+    "Ooh, nice find!",
+    "Got it! That's a good one.",
+    "I love a good scavenger hunt.",
+    "Nice eye — not everyone would've spotted that."
+  ],
+  "adventureStart": [
+    "Let's go!",
+    "Adventure time!",
+    "Off we go — I'm excited for this one.",
+    "Ready when you are!",
+    "Let's see what we find out there."
+  ],
+  "newDiscovery": "Ooh, something new! I haven't seen this one before."
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ducks-by-water",
+    "title": "Ducks on the water",
+    "prompt": "Spot some ducks (or any waterbird) on a pond, river, or lake.",
+    "tips": [
+      "Keep your distance and let them go about their day — don't chase or corner them for a photo.",
+      "Don't feed them unless it's permitted and you have food that's actually safe for them (bread isn't)."
+    ]
+  },
+  {
+    "id": "find-a-flower",
+    "title": "A flower you can’t name",
+    "prompt": "Find a flower you don’t know the name of."
+  },
+  {
+    "id": "interesting-leaf",
+    "title": "An unusual leaf",
+    "prompt": "Find a leaf with an interesting shape or color."
+  },
+  {
+    "id": "spot-a-bird",
+    "title": "Spot a bird",
+    "prompt": "Spot a bird you don’t see every day."
+  },
+  {
+    "id": "someones-pet",
+    "title": "A friendly pet",
+    "prompt": "Say hi to someone’s dog or cat out on a walk."
+  },
+  {
+    "id": "cloud-shape",
+    "title": "A cloud shape",
+    "prompt": "Find a cloud that looks like something."
+  },
+  {
+    "id": "tiny-bug",
+    "title": "A tiny bug at work",
+    "prompt": "Find an insect doing its thing — an ant, a bee, a spider."
+  },
+  {
+    "id": "moss-or-lichen",
+    "title": "Moss or lichen",
+    "prompt": "Find some moss or lichen growing somewhere unexpected."
+  }
+]

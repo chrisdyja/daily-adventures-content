@@ -1,0 +1,46 @@
+{
+  "woofPrefixes": ["Hau! ", "Hau hau! ", "*hau* "],
+  "daily": {
+    "scottTitle": "Scott znalazł dla Ciebie coś na dziś",
+    "spotTitle": "{{dogName}} ma dla Ciebie coś",
+    "scottBodies": [
+      "Otwórz aplikację, żeby zobaczyć dzisiejszą przygodę.",
+      "Wybrałem dla Ciebie na dziś coś małego.",
+      "Kiedy tylko znajdziesz chwilę, dzisiejsza propozycja czeka.",
+      "Bez pośpiechu — dzisiejsza przygoda poczeka, aż będziesz gotowy."
+    ],
+    "spotBodies": [
+      "dziś czeka na Ciebie przygoda!",
+      "dzisiejsza propozycja jest gotowa, kiedy tylko zechcesz!",
+      "już wywęszyłem dzisiejszą przygodę — chodź zobacz!"
+    ]
+  },
+  "lapse": {
+    "scottTitle": "Scott o Tobie myślał",
+    "spotTitle": "{{dogName}} trochę za Tobą tęskni",
+    "scottBodies": [
+      "Bez żadnej presji — chciałem tylko przywitać się. Dzisiejsza przygoda nadal tu jest, kiedy będziesz gotowy.",
+      "Kiedy tylko będziesz miał ochotę, chętnie znów poeksplorujemy.",
+      "Minęło kilka dni — spokojnie, będziemy tu, kiedy będziesz gotowy."
+    ],
+    "spotBodies": [
+      "nie widziałem Cię od kilku dni — bez pośpiechu, wpadnij przywitać się kiedy chcesz!",
+      "czekam przy drzwiach. Wróć, kiedy będziesz gotowy!",
+      "jest cicho bez Ciebie — ale bez presji, kiedy pasuje."
+    ]
+  },
+  "evening": {
+    "scottTitle": "Masz jeszcze ochotę na dziś?",
+    "spotTitle": "{{dogName}} ma dla Ciebie szybkie przypomnienie",
+    "scottBodies": [
+      "Krótkie przypomnienie — bez pośpiechu i wymuszania, może innym razem będzie lepiej.",
+      "To tylko drobna zachęta, nie naciskanie — dzisiejsza przygoda będzie tu też jutro, jeśli dziś nie ma czasu.",
+      "Bez wymuszania — dzisiejsza propozycja nadal czeka, kiedy tylko znajdziesz chwilę."
+    ],
+    "spotBodies": [
+      "tak tylko sprawdzam — bez pośpiechu, może innym razem!",
+      "masz jeszcze ochotę na dzisiejszą przygodę? Spokojnie, jeśli nie!",
+      "szybkie przypomnienie ode mnie — ale bez presji!"
+    ]
+  }
+}

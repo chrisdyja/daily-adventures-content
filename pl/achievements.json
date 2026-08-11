@@ -1,0 +1,46 @@
+{
+  "first-adventure": {
+    "label": "Pierwsze kroki",
+    "description": "Ukończ swoją pierwszą przygodę."
+  },
+  "first-collectible": {
+    "label": "Pierwszy kadr",
+    "description": "Znajdź swoje pierwsze znalezisko."
+  },
+  "weeks-2": {
+    "label": "2 tygodnie z rzędu",
+    "description": "Zaloguj przygodę przez 2 tygodnie z rzędu."
+  },
+  "weeks-4": {
+    "label": "4 tygodnie z rzędu",
+    "description": "Zaloguj przygodę przez 4 tygodnie z rzędu."
+  },
+  "weeks-7": {
+    "label": "7 tygodni z rzędu",
+    "description": "Zaloguj przygodę przez 7 tygodni z rzędu."
+  },
+  "collector-25": {
+    "label": "Kolekcjoner",
+    "description": "Wypróbuj 25 różnych przygód."
+  },
+  "regular-10": {
+    "label": "Bywalec",
+    "description": "Ukończ 10 przygód."
+  },
+  "combo-3-days": {
+    "label": "Kombo x3",
+    "description": "Zaloguj przygodę 3 dni z rzędu."
+  },
+  "good-eye-10": {
+    "label": "Dobre oko",
+    "description": "Znajdź 10 znalezisk."
+  },
+  "inventor-3": {
+    "label": "Wynalazca",
+    "description": "Zapisz lub zaplanuj 3 swoje własne przygody."
+  },
+  "my-way-1": {
+    "label": "Moja droga",
+    "description": "Zapisz swoją pierwszą własną przygodę."
+  }
+}

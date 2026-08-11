@@ -1,0 +1,46 @@
+{
+  "woofPrefixes": ["Woof! ", "Woof woof! ", "*woof* "],
+  "daily": {
+    "scottTitle": "Scott found something for you today",
+    "spotTitle": "{{dogName}} has something for you",
+    "scottBodies": [
+      "Open the app to see today's adventure.",
+      "Got something small picked out for you today.",
+      "Whenever you get a minute, today's pick is waiting.",
+      "No rush — today's adventure will keep till you're ready."
+    ],
+    "spotBodies": [
+      "there's an adventure waiting for you today!",
+      "today's pick is ready whenever you are!",
+      "I already sniffed out today's adventure — come see!"
+    ]
+  },
+  "lapse": {
+    "scottTitle": "Scott was thinking about you",
+    "spotTitle": "{{dogName}} misses you a little",
+    "scottBodies": [
+      "No pressure at all — just wanted to say hi. Today's adventure is still here whenever you're ready.",
+      "Whenever you're up for it, we'd love to explore again.",
+      "It's been a few days — no worries, we'll be here whenever you're ready."
+    ],
+    "spotBodies": [
+      "haven't seen you in a few days — no rush, just say hi whenever!",
+      "I've been waiting by the door. Come back whenever you're ready!",
+      "it's quiet without you — no pressure though, whenever works."
+    ]
+  },
+  "evening": {
+    "scottTitle": "Still up for today?",
+    "spotTitle": "{{dogName}} has a quick nudge",
+    "scottBodies": [
+      "Quick reminder — no rush or forcing, maybe some other time works better.",
+      "Just a nudge, not a nag — today's adventure will still be there tomorrow if today's full.",
+      "No forcing it — today's pick is still open whenever you get a moment."
+    ],
+    "spotBodies": [
+      "just checking — no rush, maybe some other time!",
+      "still up for today's adventure? No worries if not!",
+      "quick nudge from me — no pressure though!"
+    ]
+  }
+}

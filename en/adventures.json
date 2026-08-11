@@ -1,0 +1,709 @@
+[
+  {
+    "id": "sunset-from-a-hill",
+    "title": "Sunset from a hill",
+    "prompt": "Find a nearby hill and watch the sunset from the top.",
+    "areaTypes": [
+      "suburban",
+      "rural",
+      "mountain"
+    ],
+    "transport": [
+      "walk",
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "30m",
+    "interests": [
+      "quiet",
+      "nature"
+    ],
+    "comments": [
+      "That sunset from up there looked incredible — glad you made the climb.",
+      "Hilltop sunsets hit different, don't they?"
+    ],
+    "memoryLine": "That hilltop sunset is still one of my favorites."
+  },
+  {
+    "id": "sunset-from-a-mountain",
+    "title": "Sunset from a mountain",
+    "prompt": "Head up the nearest mountain and watch the sunset from as high as you can get.",
+    "areaTypes": [
+      "mountain"
+    ],
+    "transport": [
+      "walk",
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "partner",
+      "friend"
+    ],
+    "duration": "1h",
+    "interests": [
+      "quiet",
+      "nature",
+      "movement"
+    ],
+    "comments": [
+      "That was a real sunset — earned every bit of that climb.",
+      "Mountains and sunsets are a genuinely unfair combination."
+    ],
+    "memoryLine": "That mountain sunset is hard to top."
+  },
+  {
+    "id": "sunset-open-view",
+    "title": "Watch the sun go down",
+    "prompt": "Find any open view and watch the whole sunset without checking your phone once.",
+    "areaTypes": [
+      "urban",
+      "suburban",
+      "rural",
+      "coastal",
+      "mountain"
+    ],
+    "transport": [
+      "walk",
+      "bike",
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "30m",
+    "interests": [
+      "quiet",
+      "nature"
+    ],
+    "comments": [
+      "Nothing beats a sky like that. Hope you soaked it all in.",
+      "That's a good way to end the day, sunset and all."
+    ],
+    "memoryLine": "That sunset is one of my favorite memories with you."
+  },
+  {
+    "id": "sunrise-from-a-hill",
+    "title": "Sunrise from a hill",
+    "prompt": "Get up early and watch the sunrise from the nearest hill.",
+    "areaTypes": [
+      "suburban",
+      "rural",
+      "mountain"
+    ],
+    "transport": [
+      "walk",
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "30m",
+    "interests": [
+      "quiet",
+      "nature"
+    ],
+    "comments": [
+      "That early alarm was worth it for that view, wasn't it?",
+      "Mornings like that set the whole day right."
+    ],
+    "memoryLine": "That hilltop sunrise was worth the early start."
+  },
+  {
+    "id": "sunrise-from-a-mountain",
+    "title": "Sunrise from a mountain",
+    "prompt": "Climb the nearest mountain in the dark and watch the sunrise from the top.",
+    "areaTypes": [
+      "mountain"
+    ],
+    "transport": [
+      "walk",
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "partner",
+      "friend"
+    ],
+    "duration": "1h",
+    "interests": [
+      "quiet",
+      "nature",
+      "movement"
+    ],
+    "comments": [
+      "Watching the world wake up from up there — that is a real adventure.",
+      "That climb in the dark paid off completely."
+    ],
+    "memoryLine": "That mountain sunrise is one for the books."
+  },
+  {
+    "id": "sunrise-open-view",
+    "title": "Beat the sunrise",
+    "prompt": "Wake up early and be outside to watch the sunrise from somewhere with a clear view.",
+    "areaTypes": [
+      "urban",
+      "suburban",
+      "rural",
+      "coastal",
+      "mountain"
+    ],
+    "transport": [
+      "walk",
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "30m",
+    "interests": [
+      "quiet",
+      "nature"
+    ],
+    "comments": [
+      "Beating the sunrise takes real commitment. Hope it was worth the early alarm.",
+      "Mornings like that have a way of setting the whole day right."
+    ],
+    "memoryLine": "That early alarm was worth it for that sunrise, wasn’t it?"
+  },
+  {
+    "id": "river-bike-ride",
+    "title": "Ride along the river",
+    "prompt": "Bike along the nearest river for as long as the path takes you.",
+    "areaTypes": [
+      "urban",
+      "suburban",
+      "rural"
+    ],
+    "transport": [
+      "bike"
+    ],
+    "companions": [
+      "solo",
+      "partner",
+      "friend",
+      "kids"
+    ],
+    "duration": "1h",
+    "interests": [
+      "movement",
+      "nature"
+    ],
+    "comments": [
+      "A river ride is basically a guaranteed good mood, isn’t it?",
+      "Two wheels and a river view — hard to beat."
+    ],
+    "memoryLine": "That ride along the river is a good one to remember."
+  },
+  {
+    "id": "river-outing",
+    "title": "Go find the river",
+    "prompt": "Get yourself to the nearest river, however you'd like, and spend some time by the water.",
+    "areaTypes": [
+      "urban",
+      "suburban",
+      "rural"
+    ],
+    "transport": [
+      "walk",
+      "bike",
+      "car",
+      "transit"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "30m",
+    "interests": [
+      "nature",
+      "quiet"
+    ],
+    "comments": [
+      "There is something about moving water that resets the whole day.",
+      "Glad you made the trip down to the river."
+    ],
+    "memoryLine": "That time by the river always stuck with me."
+  },
+  {
+    "id": "river-beach-spot",
+    "title": "Riverside beach",
+    "prompt": "Find a sandy or rocky spot along the river and spend some time there like you're at the seaside.",
+    "areaTypes": [
+      "suburban",
+      "rural"
+    ],
+    "transport": [
+      "walk",
+      "bike",
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "1h",
+    "interests": [
+      "nature",
+      "quiet"
+    ],
+    "comments": [
+      "A river beach is such an underrated find — nice work.",
+      "Pretending you're at the seaside, river edition. I love it."
+    ],
+    "memoryLine": "That little river beach is one I'd go back to."
+  },
+  {
+    "id": "river-barefoot-wade",
+    "title": "Wade in the river",
+    "prompt": "Find a spot by the river, take your shoes off, and get your feet wet.",
+    "areaTypes": [
+      "suburban",
+      "rural",
+      "mountain"
+    ],
+    "transport": [
+      "walk"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "15m",
+    "interests": [
+      "nature"
+    ],
+    "comments": [
+      "Cold river water on bare feet — that is a real wake-up call, in a good way.",
+      "Small moment, but I bet it stuck with you."
+    ],
+    "memoryLine": "I can still picture your feet in that river."
+  },
+  {
+    "id": "bike-around-town",
+    "title": "Ride around town",
+    "prompt": "Take a bike ride around town with no particular destination in mind.",
+    "areaTypes": [
+      "urban",
+      "suburban"
+    ],
+    "transport": [
+      "bike"
+    ],
+    "companions": [
+      "solo",
+      "partner",
+      "friend",
+      "kids"
+    ],
+    "duration": "30m",
+    "interests": [
+      "movement",
+      "hidden-gems"
+    ],
+    "comments": [
+      "No destination, just pedaling — that is my favorite kind of ride.",
+      "A little aimless riding is exactly what some days need."
+    ],
+    "memoryLine": "That ride around town — no plan, just pedaling. Good one."
+  },
+  {
+    "id": "bike-to-a-viewpoint",
+    "title": "Ride to a view",
+    "prompt": "Bike to the nearest hill or high point with a view and take it in before heading back.",
+    "areaTypes": [
+      "suburban",
+      "rural",
+      "mountain"
+    ],
+    "transport": [
+      "bike"
+    ],
+    "companions": [
+      "solo",
+      "partner",
+      "friend"
+    ],
+    "duration": "1h",
+    "interests": [
+      "movement",
+      "nature"
+    ],
+    "comments": [
+      "Earning a view on two wheels feels extra satisfying, doesn’t it?",
+      "That climb was worth it for the view up there."
+    ],
+    "memoryLine": "That ride up to the view is one I still think about."
+  },
+  {
+    "id": "bike-picnic",
+    "title": "Bike picnic",
+    "prompt": "Pack some food or a hot drink, bike to a nice spot — a river, a hill, anywhere good — and enjoy it there.",
+    "areaTypes": [
+      "urban",
+      "suburban",
+      "rural",
+      "coastal",
+      "mountain"
+    ],
+    "transport": [
+      "bike"
+    ],
+    "companions": [
+      "solo",
+      "partner",
+      "friend",
+      "kids"
+    ],
+    "duration": "1h",
+    "interests": [
+      "food",
+      "nature"
+    ],
+    "comments": [
+      "A picnic you had to earn by bike tastes better, I'm convinced of it.",
+      "Food, a view, and the ride to get there — that is a full afternoon right there."
+    ],
+    "memoryLine": "That bike picnic was a really good afternoon."
+  },
+  {
+    "id": "outdoor-cookout",
+    "title": "Cook something outdoors",
+    "prompt": "Pack what you need to prepare food or a hot drink, bike or hike somewhere nice, and make it there.",
+    "areaTypes": [
+      "suburban",
+      "rural",
+      "mountain"
+    ],
+    "transport": [
+      "bike",
+      "walk"
+    ],
+    "companions": [
+      "solo",
+      "partner",
+      "friend",
+      "kids"
+    ],
+    "duration": "half-day",
+    "interests": [
+      "food",
+      "nature"
+    ],
+    "comments": [
+      "Cooking outdoors always tastes better than it has any right to.",
+      "That is real effort for a meal — respect."
+    ],
+    "memoryLine": "That meal we made outside is a memory worth keeping."
+  },
+  {
+    "id": "summit-picnic",
+    "title": "Summit picnic",
+    "prompt": "Climb the nearest hill or mountain, and eat lunch at the top with the view.",
+    "areaTypes": [
+      "mountain",
+      "rural"
+    ],
+    "transport": [
+      "walk"
+    ],
+    "companions": [
+      "solo",
+      "partner",
+      "friend"
+    ],
+    "duration": "half-day",
+    "interests": [
+      "food",
+      "nature",
+      "movement"
+    ],
+    "comments": [
+      "Lunch with a view like that is basically a reward for the climb.",
+      "You earned that meal — what a spot to eat it in."
+    ],
+    "memoryLine": "That lunch at the top is one of my favorite memories with you."
+  },
+  {
+    "id": "pickup-sports",
+    "title": "Pickup something",
+    "prompt": "Find a court, field, or open patch of grass and play whatever sport you feel like for a while.",
+    "areaTypes": [
+      "urban",
+      "suburban",
+      "rural",
+      "coastal",
+      "mountain"
+    ],
+    "transport": [
+      "walk",
+      "bike"
+    ],
+    "companions": [
+      "solo",
+      "partner",
+      "friend",
+      "kids"
+    ],
+    "duration": "1h",
+    "interests": [
+      "movement"
+    ],
+    "comments": [
+      "Nothing like an unplanned game to turn an ordinary day around.",
+      "Hope that got the legs moving and the mood up."
+    ],
+    "memoryLine": "That pickup game was a good kind of tired."
+  },
+  {
+    "id": "stargazing-dark-sky",
+    "title": "Stargazing",
+    "prompt": "Bring a blanket and find a dark spot with little to no light pollution — wait for full dark, then just look up.",
+    "areaTypes": [
+      "rural",
+      "mountain"
+    ],
+    "transport": [
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "partner",
+      "friend"
+    ],
+    "duration": "half-day",
+    "interests": [
+      "night-out",
+      "nature",
+      "quiet"
+    ],
+    "comments": [
+      "A sky full of stars never gets old, does it?",
+      "Chasing dark skies is always worth the effort."
+    ],
+    "memoryLine": "That night under the stars is hard to forget."
+  },
+  {
+    "id": "lake-barefoot-wade",
+    "title": "Wade in the lake",
+    "prompt": "Find a spot by the lake, take your shoes off, and get your feet wet.",
+    "areaTypes": [
+      "rural",
+      "mountain"
+    ],
+    "transport": [
+      "walk",
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "15m",
+    "interests": [
+      "nature"
+    ],
+    "comments": [
+      "Lake water has a stillness to it that is hard to describe.",
+      "That is a small moment, but a genuinely good one."
+    ],
+    "memoryLine": "I can still picture your feet in that lake."
+  },
+  {
+    "id": "lake-afternoon",
+    "title": "Lake afternoon",
+    "prompt": "Spend a real chunk of the afternoon by a lake — swim, wade, or just sit with the view.",
+    "areaTypes": [
+      "rural",
+      "mountain"
+    ],
+    "transport": [
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "half-day",
+    "interests": [
+      "nature",
+      "quiet"
+    ],
+    "comments": [
+      "An afternoon by the lake is basically the definition of a reset.",
+      "Water and time to spare — hard combination to beat."
+    ],
+    "memoryLine": "That lake afternoon is one of those places worth remembering."
+  },
+  {
+    "id": "sea-barefoot-wade",
+    "title": "Wade in the sea",
+    "prompt": "Find a spot by the water, take your shoes off, and get your feet wet.",
+    "areaTypes": [
+      "coastal"
+    ],
+    "transport": [
+      "walk"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "15m",
+    "interests": [
+      "nature"
+    ],
+    "comments": [
+      "There is nothing like that first cold wave on bare feet.",
+      "The sea always finds a way to reset your whole mood."
+    ],
+    "memoryLine": "I can still picture your feet in that water."
+  },
+  {
+    "id": "beach-afternoon",
+    "title": "Beach afternoon",
+    "prompt": "Spend a real chunk of the afternoon by the sea — swim, wade, or just sit with the horizon.",
+    "areaTypes": [
+      "coastal"
+    ],
+    "transport": [
+      "car",
+      "walk",
+      "transit"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "half-day",
+    "interests": [
+      "nature",
+      "quiet"
+    ],
+    "comments": [
+      "An afternoon at the beach is the kind of reset we all need sometimes.",
+      "Hope the sea gave you everything you needed today."
+    ],
+    "memoryLine": "That afternoon by the sea is still one of my favorites."
+  },
+  {
+    "id": "eat-out-somewhere-new",
+    "title": "Eat somewhere new",
+    "prompt": "Find a place nearby that's new to you, serving food or drinks, and actually go eat there.",
+    "areaTypes": [
+      "urban",
+      "suburban",
+      "rural",
+      "coastal",
+      "mountain"
+    ],
+    "transport": [
+      "walk",
+      "bike",
+      "car",
+      "transit"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "1h",
+    "interests": [
+      "food",
+      "hidden-gems"
+    ],
+    "comments": [
+      "New spot, new little memory — that is how it should work.",
+      "I love that you tried somewhere new instead of the usual."
+    ],
+    "memoryLine": "That new spot turned out pretty good, didn’t it?"
+  },
+  {
+    "id": "observation-tower",
+    "title": "Find the tower",
+    "prompt": "Track down the nearest observation tower or lookout platform and go all the way up.",
+    "areaTypes": [
+      "urban",
+      "suburban",
+      "rural"
+    ],
+    "transport": [
+      "walk",
+      "car"
+    ],
+    "companions": [
+      "solo",
+      "dog",
+      "cat",
+      "partner",
+      "kids",
+      "friend"
+    ],
+    "duration": "30m",
+    "interests": [
+      "photography",
+      "hidden-gems"
+    ],
+    "comments": [
+      "Going all the way up is always worth it for that view.",
+      "There is something about a tower view that just hits different."
+    ],
+    "memoryLine": "That view from the tower is one I still think about."
+  }
+]

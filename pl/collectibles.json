@@ -1,0 +1,38 @@
+{
+  "ducks-by-water": {
+    "title": "Kaczki na wodzie",
+    "prompt": "Wypatrz kaczki (lub inne ptaki wodne) na stawie, rzece lub jeziorze.",
+    "tips": [
+      "Zachowaj dystans i pozwól im zajmować się swoimi sprawami — nie goń ich ani nie osaczaj dla zdjęcia.",
+      "Nie karm ich, chyba że jest to dozwolone i masz jedzenie naprawdę dla nich bezpieczne (chleb nim nie jest)."
+    ]
+  },
+  "find-a-flower": {
+    "title": "Kwiat, którego nazwy nie znasz",
+    "prompt": "Znajdź kwiat, którego nazwy nie znasz."
+  },
+  "interesting-leaf": {
+    "title": "Nietypowy liść",
+    "prompt": "Znajdź liść o ciekawym kształcie lub kolorze."
+  },
+  "spot-a-bird": {
+    "title": "Wypatrz ptaka",
+    "prompt": "Wypatrz ptaka, którego nie widujesz na co dzień."
+  },
+  "someones-pet": {
+    "title": "Przyjazny zwierzak",
+    "prompt": "Przywitaj się z czyimś psem lub kotem podczas spaceru."
+  },
+  "cloud-shape": {
+    "title": "Kształt chmury",
+    "prompt": "Znajdź chmurę, która przypomina coś konkretnego."
+  },
+  "tiny-bug": {
+    "title": "Mały robaczek przy pracy",
+    "prompt": "Znajdź owada zajętego swoim zajęciem — mrówkę, pszczołę, pająka."
+  },
+  "moss-or-lichen": {
+    "title": "Mech albo porost",
+    "prompt": "Znajdź mech lub porost rosnący w nieoczekiwanym miejscu."
+  }
+}

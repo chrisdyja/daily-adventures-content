@@ -1,0 +1,46 @@
+{
+  "first-adventure": {
+    "label": "First Steps",
+    "description": "Complete your first adventure."
+  },
+  "first-collectible": {
+    "label": "First Shot",
+    "description": "Find your first collectible."
+  },
+  "weeks-2": {
+    "label": "2 Weeks Running",
+    "description": "Log an adventure in 2 weeks in a row."
+  },
+  "weeks-4": {
+    "label": "4 Weeks Running",
+    "description": "Log an adventure in 4 weeks in a row."
+  },
+  "weeks-7": {
+    "label": "7 Weeks Running",
+    "description": "Log an adventure in 7 weeks in a row."
+  },
+  "collector-25": {
+    "label": "Collector",
+    "description": "Try 25 different adventures."
+  },
+  "regular-10": {
+    "label": "Regular",
+    "description": "Complete 10 adventures."
+  },
+  "combo-3-days": {
+    "label": "3x Combo",
+    "description": "Log an adventure 3 days in a row."
+  },
+  "good-eye-10": {
+    "label": "Good Eye",
+    "description": "Find 10 collectibles."
+  },
+  "inventor-3": {
+    "label": "Inventor",
+    "description": "Log or plan 3 of your own adventures."
+  },
+  "my-way-1": {
+    "label": "My Way",
+    "description": "Log your first custom adventure."
+  }
+}

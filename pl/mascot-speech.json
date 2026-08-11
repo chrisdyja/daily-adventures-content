@@ -1,0 +1,58 @@
+{
+  "highFive": [
+    "Piątka! 🖐️",
+    "Dasz radę!",
+    "Poszukajmy dziś czegoś fajnego.",
+    "Dzięki, że zajrzałeś!",
+    "Każdy dzień jest dobry na małą przygodę.",
+    "Zawsze chętnie poeksploruję z Tobą.",
+    "Tak tylko sprawdzam — jak się dziś czujesz?",
+    "Trzymam za Ciebie kciuki."
+  ],
+  "genericCompletion": [
+    "Dobra robota — kolejna przygoda w księgach!",
+    "Jestem z Ciebie dumny, że dziś wyszedłeś.",
+    "Kolejna zaliczona. Jak się czujesz?",
+    "To liczy się jako wygrana w moich oczach.",
+    "Cieszę się, że to razem zrobiliśmy — no, w pewnym sensie razem."
+  ],
+  "genericMemory": [
+    "Nadal czasem o tym myślę.",
+    "To była dobra przygoda, prawda?",
+    "To wspomnienie trzyma się świetnie.",
+    "Cieszę się, że mamy do czego wracać."
+  ],
+  "greeting": [
+    "Hej! Gotowy na coś nowego?",
+    "Miło Cię znowu widzieć.",
+    "Zobaczmy, co dziś przygotował dzień.",
+    "Witaj z powrotem — tęskniłem.",
+    "Cześć! W co się dziś wplączemy?"
+  ],
+  "favorite": [
+    "Ooo, ulubione! Świetny wybór.",
+    "Zanotowane — wrócimy tu jeszcze.",
+    "Miałem przeczucie, że to Ci się spodoba.",
+    "Zapisane! Możemy to zrobić ponownie kiedy tylko chcesz."
+  ],
+  "levelUp": [
+    "Patrz na siebie — nowy poziom odblokowany!",
+    "Robimy świetny zespół. Awans!",
+    "Jestem taki dumny z tego, jak daleko zaszliśmy.",
+    "To nowy poziom! Do przodu."
+  ],
+  "genericCollectible": [
+    "Ooo, niezłe znalezisko!",
+    "Mam to! Dobry okaz.",
+    "Uwielbiam dobre polowanie na skarby.",
+    "Dobre oko — nie każdy by to zauważył."
+  ],
+  "adventureStart": [
+    "Ruszamy!",
+    "Czas na przygodę!",
+    "Jedziemy — nie mogę się doczekać tej jednej.",
+    "Gotowy, kiedy Ty!",
+    "Zobaczmy, co tam znajdziemy."
+  ],
+  "newDiscovery": "Ooo, coś nowego! Nie widziałem tego wcześniej."
+}
